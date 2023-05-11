@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello there 👋
 
+### My name is Oleg Zharkov
+
+
+###### Data Science: 
+Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy, Scikit-learn, TensorFlow, Keras
 <!--
 **Cherepezhka/cherepezhka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
