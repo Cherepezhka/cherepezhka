@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 ### My name is Oleg Zharkov
-- ⚡ I graduated from BMSTU with a master's degree in engineering
+- ⚡ I graduated from Bauman Moscow State Technical Universaty with a Master's degree in engineering
 - 🌱 I’m currently learning data science. Here you can see my projects.
 
 ###### Data Science: 
