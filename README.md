@@ -1,11 +1,15 @@
-### Hello there 👋
+## Hello there 👋
 
 ### My name is Oleg Zharkov
-- ⚡ I graduated from Bauman Moscow State Technical Universaty with a Master's degree in engineering
-- 🌱 I’m currently learning data science. Here you can see my projects.
+- ⚡ I graduated from Bauman Moscow State Technical Universaty with a Master's degree in engineering.
+- 🌱 I’m currently working as NLP Data Scientist/ML engineer.
 
-###### Data Science: 
-Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy, Scikit-learn, TensorFlow, Keras
+Langchain, Langchaph, FastAPI, Docker
+
+#### Data Science: 
+Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy, Scikit-learn
+
+
 <!--
 **Cherepezhka/cherepezhka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
